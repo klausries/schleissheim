@@ -1,8 +1,8 @@
 # Gatsby + Cosmic JS
 
+![Cosmic Logo](static/cosmicjs.svg)
 
-![Thumbnail](static/thumbnail.png)
-![GitHub Logo](https://github.com/klausries/schleissheim/raw/master/static/thumbnail.png)
+Das ist ein Test.
 
 > This repo contains an example blog website that is built with [Gatsby](https://www.gatsbyjs.org/), and [Cosmic JS](https://www.cosmicjs.com).
 
