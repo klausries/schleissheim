@@ -1,6 +1,8 @@
 # Gatsby + Cosmic JS
 
-![Cosmic Logo](static/cosmicjs.svg)
+[Cosmic Logo](static/cosmicjs.svg)
+
+:thinking:
 
 Das ist ein Test.
 
