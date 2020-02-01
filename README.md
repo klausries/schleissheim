@@ -1,6 +1,6 @@
 # Gatsby + Cosmic JS
 
-[Cosmic Logo](static/cosmicjs.svg)
+![Gatsby Logo](static/gatsby.png)
 
 :thinking:
 
